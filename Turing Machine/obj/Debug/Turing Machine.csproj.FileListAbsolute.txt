@@ -1,0 +1,14 @@
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\bin\Debug\Turing Machine.exe.config
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\bin\Debug\Turing Machine.exe
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\bin\Debug\Turing Machine.pdb
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\obj\Debug\Turing Machine.csprojResolveAssemblyReference.cache
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\obj\Debug\MainWindow.g.cs
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\obj\Debug\App.g.cs
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\obj\Debug\Turing Machine_MarkupCompile.cache
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\obj\Debug\MainWindow.baml
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\obj\Debug\Turing Machine.g.resources
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\obj\Debug\Turing_Machine.Properties.Resources.resources
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\obj\Debug\Turing Machine.csproj.GenerateResource.Cache
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\obj\Debug\Turing Machine.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\obj\Debug\Turing Machine.exe
+C:\Users\Jake\source\repos\Turing Machine\Turing Machine\obj\Debug\Turing Machine.pdb
